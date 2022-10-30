@@ -2,4 +2,4 @@
 
 # SCREENSHOTS
 
-### SCREEN SHOTS ARE ON A .PDF FILE IN THE ROOT OF PROJECT
+### Screen shot are in the screenshot folder in the root of project
